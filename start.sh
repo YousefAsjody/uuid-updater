@@ -1,4 +1,4 @@
-#test comment.added
+
 read -p 'Username:' user
 read -p 'Server address(ip/Name):' server
 
